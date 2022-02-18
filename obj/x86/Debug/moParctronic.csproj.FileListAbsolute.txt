@@ -1,0 +1,8 @@
+C:\files\Продукты\Парктроник\Windows\moParctronic\bin\Debug\moParctronic.exe
+C:\files\Продукты\Парктроник\Windows\moParctronic\bin\Debug\moParctronic.pdb
+C:\files\Продукты\Парктроник\Windows\moParctronic\obj\x86\Debug\moParctronic.Form1.resources
+C:\files\Продукты\Парктроник\Windows\moParctronic\obj\x86\Debug\moParctronic.Properties.Resources.resources
+C:\files\Продукты\Парктроник\Windows\moParctronic\obj\x86\Debug\moParctronic.csproj.GenerateResource.Cache
+C:\files\Продукты\Парктроник\Windows\moParctronic\obj\x86\Debug\moParctronic.exe
+C:\files\Продукты\Парктроник\Windows\moParctronic\obj\x86\Debug\moParctronic.pdb
+C:\files\Продукты\Парктроник\Windows\moParctronic\obj\x86\Debug\moParctronic.csprojResolveAssemblyReference.cache
